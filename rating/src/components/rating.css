@@ -1,0 +1,12 @@
+.notactive{
+    color: grey;
+    font-size: 10rem;
+    cursor: pointer;
+}
+
+.active{
+    color:blue;
+    font-size: 10rem;
+    cursor: pointer;
+}
+
